@@ -1,0 +1,23 @@
+{
+  "name": "wordpress-exporter",
+  "version": "0.1.0",
+  "description": "This adapter will allow you to extract content from a WordPress Blog and prepare it to be imported to Contentful.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dshved/wordpress-exporter.git"
+  },
+  "keywords": [
+    "wordpress",
+    "contentful"
+  ],
+  "author": "Dmitriy Shved <dshved@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dshved/wordpress-exporter/issues"
+  },
+  "homepage": "https://github.com/dshved/wordpress-exporter#readme"
+}
